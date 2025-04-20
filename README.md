@@ -39,5 +39,5 @@ AquaLip addresses these challenges.
 
 ## Built by Aquaponics Lovers, for Aquaponics Lovers
 
-Our team of aquaponics practitioners, software engineers, and environmental scientists has poured expertise and passion into every line of code, making AquaPonic Pro your digital aquaponics partner.
+Our team of aquaponics practitioners, software engineers, and environmental scientists has poured expertise and passion into every line of code, making AquaLip your digital aquaponics partner.
 
